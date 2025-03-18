@@ -3,7 +3,8 @@
 # ✅ To Do List
 ### To do list made with PostgreSQL Database
 
-![image](https://github.com/user-attachments/assets/593f8b0f-4437-4705-a869-5cfde58b9846)
+![image](https://github.com/user-attachments/assets/d770d0e9-0aae-4eb4-a06e-509e71feb010)
+
 
 </div>
 
@@ -44,7 +45,7 @@ Create a `.env` file in the root directory and add your PostgreSQL credentials:
   port: 5433
 ```
 
-## ▶️ Running the TodoList System
+### ▶️ Running the TodoList System
 Start the application using Nodemon:
 ```sh
 npm install -g nodemon  # Install nodemon globally if you haven't
