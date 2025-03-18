@@ -1,7 +1,7 @@
 <div align="center">
 
 # ✅ TodoList
-### PostgreSQL Database Configuration
+### To do list made with PostgreSQL Database
 
 ![image](https://github.com/user-attachments/assets/593f8b0f-4437-4705-a869-5cfde58b9846)
 
@@ -14,8 +14,8 @@ TodoList is a simple project that allows users to manage their tasks using a Pos
 
 ### 1️⃣ Clone the repository
 ```sh
-git clone https://github.com/mat-devlp/to-do-list-sql.git
-cd to-do-list-sql
+git clone https://github.com/mat-devlp/todolist.git
+cd todolist
 ```
 
 ### 2️⃣ Install dependencies
