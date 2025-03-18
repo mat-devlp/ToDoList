@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✅ TodoList
+# ✅ To Do List
 ### To do list made with PostgreSQL Database
 
 ![image](https://github.com/user-attachments/assets/593f8b0f-4437-4705-a869-5cfde58b9846)
